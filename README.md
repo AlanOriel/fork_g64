@@ -1,3 +1,3 @@
-# first- Github
+# Github
 Proyecto: mi primer GitHub Fork
-<Alan Morales Tapia>
+Alan Morales Tapia
