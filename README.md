@@ -1,3 +1,2 @@
-# Github
-Proyecto: mi primer GitHub Fork
+# Mi Primer GitHub Fork
 Alan Morales Tapia
